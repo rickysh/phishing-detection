@@ -1,12 +1,3 @@
-// const express = require('express');
-// const router = express.Router();
-// const { checkPhishing } = require('../controllers/phishingController');
-
-// router.post('/detect', checkPhishing);
-
-// module.exports = router;
-
-
 const express = require('express');
 const axios = require('axios');
 

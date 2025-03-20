@@ -71,4 +71,4 @@ The frontend will run on http://localhost:3000.
 
 - Ensure both the **Flask API** and **MERN Backend** are running before testing the frontend.
 - The Flask API will be running on `http://localhost:5000`, and the MERN Backend on `http://localhost:5001`.
-- The React frontend communicates with the **MERN Backend** at `http://localhost:5001`.
+- The React frontend communicates with the **MERN Backend** at `http://localhost:3000`.
